@@ -1,0 +1,130 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    background-color: #F0F0EE;
+    height: auto;
+    width: 100%;
+}
+
+#main {
+    padding: 10px;
+    border-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#main h1 {
+    margin-top: 28px;
+    margin-bottom: 10px;
+    align-content: center;
+    text-align: center;
+    color: #c97d8b;
+}
+
+#diff {
+    align-content: center;
+    text-align: center;
+    color: #333333 ;
+    font-family: 'Times New Roman',, Georgia;
+    line-height: 1.7; 
+    margin-bottom: 16px;
+}
+#main img {
+    width : 55%;
+    height : 490px;
+}   
+#main {
+    color: #333333 ;
+    font-family: 'Times New Roman',, Georgia;
+    line-height: 1.7; 
+}
+#main button {
+    width : 200px;
+    height: 50px;
+    background-color: #c97d8b;
+    color: #F0F0EE;
+    border-radius: 5px;
+    border: none;
+}
+#sec-one {
+    width : 100%;
+    height : 490px;
+    background-color: #F7D9D9;
+}
+#one-left {
+    float: left;
+    width : 55%;
+    height : 490px;
+}
+#one-left img {
+    width : 100%;
+    height : 490px;
+}
+#one-right {
+    float : right;
+    width : 40%;
+    height : 480px;
+    color: #333333;
+    padding: 5px;
+    margin-top: 50px;
+    margin-right: 25px;
+    text-align: center;
+}
+#sec-two {
+    clear: both;
+    width : 100%;
+    height : 490px;
+    background-color: #F7D9D9;
+
+}
+#two-right {
+    float: right;
+    width : 55%;
+    height : 490px;
+}
+#two-right img {
+    width : 100%;
+    height : 490px;
+}
+#two-left {
+    float : left;
+    width : 40%;
+    height : 490px;
+    color: #333333;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 25px;
+    text-align: center;
+}
+#sec-third {
+    clear: both;
+    width : 100%;
+    height : 490px;
+    background-color: #F7D9D9;
+    margin-bottom: 40px;
+}
+#third-left {
+    float: left;
+    width : 55%;
+    height : 490px;
+}
+#third-left img {
+    width : 100%;
+    height : 490px;
+}
+#third-right {
+    float : right;
+    width : 40%;
+    height : 490px;
+    color: #333333;
+    padding: 5px;
+    margin-top: 50px;
+    margin-right: 25px;
+    text-align: center;
+}
+footer {
+    clear: both;
+}

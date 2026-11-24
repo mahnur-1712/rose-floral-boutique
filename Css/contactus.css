@@ -1,0 +1,109 @@
+*{
+    margin : 0px;
+    padding: 0px;
+}
+main {
+    background-color: white;
+    height: auto;
+    width: 100%;
+}
+section {
+    padding: 40px;
+    border-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#main-heading {
+    margin-top: 20px;    
+    margin-bottom: 10px; 
+    align-content: center;
+    text-align: center;
+    color: #c97d8b;
+}
+#first-p {
+    font-family: , 'Georgia', Times New Roman;
+    margin-top: 28px;   
+    margin-bottom: 10px; 
+    color: #333333;
+    font-size: 30px;
+}
+#second-p {
+    font-family: , 'Georgia', Times New Roman;
+    margin-top: 28px;   
+    margin-bottom: 10px; 
+    color: #333333;
+    font-size: 20px;
+}
+#third-p {
+    font-family: 'Times New Roman',, Georgia;
+    line-height: 1.7; 
+    margin-bottom: 16px;
+    color: #555555 ;
+}
+form {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    border-radius: 1%;
+    border-color: #555555;
+}
+.feild {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+form input {
+    padding: 10px;
+    width: 40%;
+    border: none;
+    border-bottom: solid grey 1px ;
+}
+form textarea {
+    padding: 10px;
+    height: 80px;
+    width: 40%;
+    border: none;
+    border-bottom: solid grey 1px ;
+}
+form button {
+    color: black;
+    text-decoration: none;
+    margin-right: 200px;
+    background: #C97D8B;
+    color: white;
+    padding: 18px 28px;
+    text-decoration: none;
+    border: none;
+    width: 40%;
+    display: block;
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+form button:hover {
+    color: black;   
+}
+#customer-service {
+    width: 25%;
+    height: 304px;
+    position: absolute;
+    top: 377px;
+    left: 50%;
+    background-color: #FDF2EF;
+}
+#customer-service h2 {
+    padding: 10px;
+}
+#customer-service p {
+    padding: 10px;
+    padding-top: 20px;
+}
+#customer-service a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    padding-top: 20px;
+}

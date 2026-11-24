@@ -1,0 +1,428 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    background-color: white;
+    height: auto;
+}
+
+.empty {
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    clear: both;
+}
+
+#shopbycategory h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "", Georgia, serif;
+    font-size: 30px;
+    color: black;
+}
+
+#shopbycategory h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "", Georgia, serif;
+    font-size: 30px;
+    color: #c97d8b;
+}
+
+#sbc {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "", Georgia, serif;
+    font-size: 30px;
+    color: #555555;
+}
+
+#wedding {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#wedding-row-1 {
+    display: flex;
+}
+
+.w-row-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.w-row-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.w-row-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.w-row-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#wedding-row-2 {
+    display: flex;
+}
+
+.w-row-2 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.w-row-2 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.w-row-2 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.w-row-2 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#wedding-row-3 {
+    display: flex;
+}
+
+.w-row-3 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.w-row-3 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.w-row-3 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.w-row-3 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#gifthampers {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#gifthampers-row-1 {
+    display: flex;
+}
+
+.gh-row-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.gh-row-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.gh-row-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.gh-row-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#gifthampers-row-2 {
+    display: flex;
+}
+
+.gh-row-2 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.gh-row-2 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.gh-row-2 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.gh-row-2 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#funeral {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#funeral-row-1 {
+    display: flex;
+}
+
+.f-row-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.f-row-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.f-row-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.f-row-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#roses {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#roses-row-1 {
+    display: flex;
+}
+
+.r-row-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.r-row-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.r-row-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.r-row-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#roses-row-2 {
+    display: flex;
+}
+
+.r-row-2 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.r-row-2 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.r-row-2 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.r-row-2 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#mix {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#mix-row-1 {
+    display: flex;
+}
+
+.m-r-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.m-r-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.m-r-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.m-r-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#mix-row-2 {
+    display: flex;
+}
+
+.m-row-2 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.m-row-2 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.m-row-2 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.m-row-2 p {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#lilies {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#lilies-row-1 {
+    display: flex;
+}
+
+.l-row-1 {
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 380px;
+    width: 250px;
+}
+
+.l-row-1 img {
+    height: 80%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.l-row-1 h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.l-row-1 p {
+    margin-bottom: 7px;
+    text-align: center;
+}

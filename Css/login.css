@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    height: auto;
+    width: 100%;
+    background-color: #F0F0EE;
+}
+main {
+    justify-content: center;
+}
+
+#signup {
+    border: solid white 1px;
+    text-align: center;
+    height: 350px;
+    width: 25%;
+    background-color: #F7D9D9;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    left: 22.5%;
+    top: 60px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+#signup img {
+    height: auto;
+    width: 100%;
+}
+
+#signup h2 {
+    margin: 15px;
+}
+
+#signup p {
+    margin: 10px;
+}
+
+#signup button {
+    border: solid white 2px;
+    margin: 15px;
+    line-height: 25px;
+    color: black;
+    text-decoration: none;
+    background: #C97D8B;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+#signup span {
+    color: #C97D8B;
+    font-weight: bolder;
+}
+
+
+#sign-in {   
+    color: white;
+    border: solid white 1px;
+    text-align: center;
+    height: 350px;
+    width: 25%;
+    background-color: #C97D8B;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    left: 49%;
+    bottom: 321.2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+#sign-in h2 {
+    margin: 15px;
+}
+
+#sign-in input {
+    display: block;
+    margin: 15px;
+    width: 85%;
+    padding: 10px;
+}
+
+#sign-in button {
+    border: solid white 2px;
+    margin: 15px;
+    line-height: 25px;
+    color: black;
+    text-decoration: none;
+    background: #F7D9D9;
+    color: #C97D8B;
+    padding: 8px 18px;
+    border-radius: 10px;
+    text-decoration: none;
+}
